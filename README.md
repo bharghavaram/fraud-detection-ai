@@ -1,3 +1,5 @@
+> **📅 Project Period:** Aug 2024 – Sep 2024 &nbsp;|&nbsp; **Status:** Completed &nbsp;|&nbsp; **Author:** [Bharghava Ram Vemuri](https://github.com/bharghavaram)
+
 # Real-Time Fraud Detection AI
 
 > XGBoost + SHAP explainability + GPT-4o reasoning for financial fraud detection
