@@ -16,7 +16,11 @@
 
 ---
 
-## 🎯 Problem Statement
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bharghavaram/fraud-detection-ai/main/docs/images/demo.svg" alt="fraud-detection-ai demo" width="820"/>
+</div>
+
+--- 🎯 Problem Statement
 
 Financial fraud costs $485B annually. Rule-based systems miss novel fraud patterns; ML models give opaque decisions that compliance teams cannot explain to regulators; and real-time latency requirements (<100ms) make deep learning impractical. This system combines XGBoost for sub-50ms prediction, SHAP for feature-level explainability, and GPT-4o for human-readable narrative reasoning — delivering BLOCK/REVIEW/ALLOW decisions with full audit trails.
 
